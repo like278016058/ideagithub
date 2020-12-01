@@ -15,7 +15,7 @@ class IdeagithubApplicationTests {
 		System.out.println("你个老derder");
 		System.out.println("你个老derder");
 		System.out.println("你个老derder");
-		System.out.println("你个老derder");
+		System.out.println("你个老derder");System.out.println("你个老derder");System.out.println("你个老derder");
 	}
 
 }
